@@ -1,5 +1,5 @@
 # 💫 About Me:
- 
+Passionate Data Science enthusiast with strong problem-solving skills, adept at interdisciplinary collaboration, and a quick learner. Proficient in driving innovation and growth in dynamic environments. Skilled in effective technical and non-technical communication. Eager to contribute expertise to forward-thinking organizations.  
 
 
 # 💻 Tech Stack:
